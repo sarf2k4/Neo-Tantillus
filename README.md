@@ -8,18 +8,29 @@ The configuration file for marlin also included
 # Sources
 There are several stl files derived from the following things from thingiverse
 
-https://github.com/Intrinsically-Sublime/Tantillus
-https://www.thingiverse.com/thing:1449869
-https://www.thingiverse.com/thing:359346
-https://www.thingiverse.com/thing:359344
-https://www.thingiverse.com/thing:910886
-https://www.thingiverse.com/thing:1707045
-https://www.thingiverse.com/thing:1658075
-https://www.thingiverse.com/thing:1329750
-https://www.thingiverse.com/thing:16813
-https://www.thingiverse.com/thing:2202854
-https://www.thingiverse.com/thing:761806
-https://www.thingiverse.com/thing:28054
+- https://github.com/Intrinsically-Sublime/Tantillus
+
+- https://www.thingiverse.com/thing:1449869
+
+- https://www.thingiverse.com/thing:359346
+
+- https://www.thingiverse.com/thing:359344
+
+- https://www.thingiverse.com/thing:910886
+
+- https://www.thingiverse.com/thing:1707045
+
+- https://www.thingiverse.com/thing:1658075
+
+- https://www.thingiverse.com/thing:1329750
+
+- https://www.thingiverse.com/thing:16813
+
+- https://www.thingiverse.com/thing:2202854
+
+- https://www.thingiverse.com/thing:761806
+
+- https://www.thingiverse.com/thing:28054
 
 Thanks to the above that I'm able to complete the whole package, some of which I modified them in order to further improve its functionality and practicality.
 
